@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ViewSwitcherExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="cupcake">CupCake</string>
+    <string name="donut">Donut</string>
+
+</resources>
